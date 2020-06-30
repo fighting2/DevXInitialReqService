@@ -6,4 +6,5 @@ public class IRService {
     private String passWord4;
     private String passWord2;
     private String flag;
+    private String flag2;
 }
